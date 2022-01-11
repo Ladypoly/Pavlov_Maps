@@ -1,1 +1,5 @@
-(Thumbnail.jpg)
+![Thumbnail](Thumbnail.jpg)
+![Gameseption](Gameseption.jpg)
+![Lvl_0](Lvl_0.jpg)
+![Lvl_1](Lvl_1.jpg)
+![Lvl_2](Lvl_2.jpg)
