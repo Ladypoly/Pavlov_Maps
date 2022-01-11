@@ -1,1 +1,1 @@
-(https://github.com/Ladypoly/Pavlov_Maps/raw/main/Shack/GoldenEye_007-Stack/Thumbnail.jpg)
+![Thumbnail](Thumbnail.jpg)
