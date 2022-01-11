@@ -1,1 +1,1 @@
-![Thumbnail](Thumbnail.jpg)
+(Thumbnail.jpg)
