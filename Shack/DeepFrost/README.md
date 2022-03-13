@@ -6,6 +6,7 @@
 ![](Overview_Map.jpg)	
 ![](T_Spawn.png)
 ![](Storage.png)
+![](Power_Room.png)
 ![](Bridge.png)
 ![](Meeting_Room.png)
 ![](Lab_01.png)
